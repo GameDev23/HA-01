@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 594047847
+    locked: 0
+  - name: Marvin
+    uniqueID: 1245137613
+    locked: 0
+  - name: Samwel
+    uniqueID: 3388107619
+    locked: 0
+  - name: David
+    uniqueID: 2156217739
+    locked: 0
+  - name: Foreground
+    uniqueID: 3598469769
+    locked: 0
