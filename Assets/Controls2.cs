@@ -84,31 +84,31 @@ public class Controls2 : MonoBehaviour
             gameObject.transform.position = pos;
             Debug.Log(gameObject.name + "  " + currentIndex);
         }
-        if (Input.GetKeyDown(KeyCode.Keypad0))
+        if (Input.GetKeyDown(KeyCode.Alpha1))
         {
             changeSprite(0);
         }
-        if (Input.GetKeyDown(KeyCode.Keypad1))
+        if (Input.GetKeyDown(KeyCode.Alpha2))
         {
             changeSprite(1);
         }
-        if (Input.GetKeyDown(KeyCode.Keypad2))
+        if (Input.GetKeyDown(KeyCode.Alpha3))
         {
             changeSprite(2);
         }
-        if (Input.GetKeyDown(KeyCode.Keypad3))
+        if (Input.GetKeyDown(KeyCode.Alpha4))
         {
             changeSprite(3);
         }
-        if (Input.GetKeyDown(KeyCode.Keypad4))
+        if (Input.GetKeyDown(KeyCode.Alpha5))
         {
             changeSprite(4);
         }
-        if (Input.GetKeyDown(KeyCode.Keypad5))
+        if (Input.GetKeyDown(KeyCode.Alpha6))
         {
             changeSprite(5);
         }
-        if (Input.GetKeyDown(KeyCode.Keypad6))
+        if (Input.GetKeyDown(KeyCode.Alpha7))
         {
             changeSprite(6);
         }
